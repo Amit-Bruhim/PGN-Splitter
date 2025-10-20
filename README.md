@@ -29,8 +29,6 @@ It demonstrates basic file handling, string processing, and scripting in Bash, w
 - Splits a PGN file containing multiple chess games into individual files  
 - Automatically creates the destination directory if it doesn't exist  
 - Prints informative messages when each game is saved  
-- Handles empty lines to detect game boundaries  
-- Simple and easy-to-use Bash script
 
 ---
 
